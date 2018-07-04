@@ -1,2 +1,2 @@
-# Humanoid
-Code for static/kinematic,dynamic walker
+# HUMANOID_walking
+walking files
