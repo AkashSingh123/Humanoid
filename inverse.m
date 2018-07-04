@@ -1,5 +1,4 @@
-% Author: Sapan Agrawal
-% USED IN angles.m
+
 % The function gives the simplified forms of COM equations. 
 %%
 function [X_sim,Y_sim,Z_sim,c] = inverse()
