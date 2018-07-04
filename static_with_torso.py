@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# license removed for brevity
 
-## Date : 12|08|2016 ##
-## Author : Surabhi Verma ##
-## TORSO_STATIC_WALKING ##
-## INPUT FROM EXCEL SHEET, ANGLES PRECALCULATED IN MATLAB ##
 
 import rospy
 from std_msgs.msg import String
