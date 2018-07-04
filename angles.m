@@ -1,5 +1,3 @@
-% Author: Sapan Agrawal
-% The function angles takes X,Y,Z co-ordinates of COM as input and computes
 % the joint angles.
 % Note: Here for computation Right leg is considered as Stance leg. 
 %%
