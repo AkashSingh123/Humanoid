@@ -1,6 +1,4 @@
-% Author: Sapan Agrawal
-% Date: 11/10/2016
-% This function finds transformation matrix 'T_w' which when multiplied by point 
+
 % co-ordinate in local frame, gives the same point co-ordinate in Local 
 % World Frame.    
 
