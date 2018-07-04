@@ -1,5 +1,4 @@
-% Author: Sapan Agrawal
-% Date : 13/10/2016
+
 % This function takes the angles in degrees and the support polygon ratio.
 % The output of this function is the feet plot corresponding given set of angles. 
 %%
