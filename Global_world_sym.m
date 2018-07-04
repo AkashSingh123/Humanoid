@@ -1,5 +1,4 @@
-% Author: Sapan Agrawal.
-% Date : 12/10/2016.
+
 % This function finds COM co-ordinates in Global World Frame.
 % To decide the stance leg it takes the LWT6 transformation matrix of RL & LL.
 
