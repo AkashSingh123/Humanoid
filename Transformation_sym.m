@@ -1,5 +1,4 @@
-% Author : Sapan Agrawal
-% Date : 11/10/2016
+
 % This function takes a single row[1,20] matrix 't' consisting of all joint
 % angles in degrees. 
 % Output: Location of COM wrt Global World Frame
